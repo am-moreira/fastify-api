@@ -1,9 +1,0 @@
-# GET Orders
-
-# GET http://localhost:3333/avaliacoes
-
-
-GET https://fastify-api-u139.onrender.com/avaliacoes
-
-
-GET https://fastify-api-u139.onrender.com/
